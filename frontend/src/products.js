@@ -1,4 +1,4 @@
-const products = [
+let products = [
   {
     _id: '1',
     name: 'Airpods Wireless Bluetooth Headphones',
