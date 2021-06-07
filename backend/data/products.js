@@ -79,4 +79,4 @@ let products = [
   },
 ]
 
-export default products
+module.exports = products
